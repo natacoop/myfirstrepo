@@ -8,6 +8,6 @@ This is the readme for my first repo. I'm learning how to use markdown.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae nobis, doloribus, ratione eum hic explicabo natus delectus, nemo veritatis cupiditate quas voluptatum similique enim temporibus fuga modi cumque soluta rerum.
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=w-0TEJMJOhk)](https://www.youtube.com/watch?v=w-0TEJMJOhk)
+[![Aluminum Foil](http://img.youtube.com/vi/w-0TEJMJOhk/0.jpg)](http://www.youtube.com/watch?v=w-0TEJMJOhk)
 
 __Hello!__
